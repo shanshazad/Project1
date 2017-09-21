@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Weekly News</title>
+  <meta charset="UTF-8">
+  <meta content="width=device-width,initial-scale=1.0,shrink-to-fit=no" name="viewport">
+  <link href="./css/screen.css" media="screen" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+ProSpace+Mono:700" rel="stylesheet">
+</head>
+<body>
+  <figure id="background-img"> 
+      <img src="img/color.jpg" alt="Background Image ">
+
+      
+      
+      
+  </figure>
+  <form action="#null" id="newsletter" method="get" name="newsletter">
+    <h1>Sign Up for our News Letter!</h1>
+    <h2>Why Join?</h2>
+    <ul class="reasons-list">
+      <li><img alt="circle-icon" class="circle" src="img/check.png">Weekly news of crimes of Chicago!</li>
+      <li><img alt="circle-icon" class="circle" src="img/check.png">Weekly news of recent technology!</li>
+      <li><img alt="circle-icon" class="circle" src="img/check.png">Weekly released  movies & TV shows!</li>
+    </ul>
+    <h3>Please fill in your email if you like to get started!</h3>
+    <ol>
+    
+        
+      <li id="input-email">
+        <label for="email">Email:</label> <input id="email" name="email" placeholder="you@example.com" type="email">
+          
+          <label for="name">First Name:</label>
+                    <input type="text" placeholder ="ex: john" id="name" name="name">
+        
+          <li><label for="age">I am 18 years or older:</label> <input id="age" name="age" type="checkbox"></li>
+                  <li><input id="submit" name="submit" onclick="checkAll();" type="submit" value="Submit!"></li>
+    </ol>  
+  </form>
+  <p id="approved"></p>
+  <p id="age1"></p>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js">
+  </script> 
+  <script src="js/site.js">
+  </script>
+</body>
+</html>
