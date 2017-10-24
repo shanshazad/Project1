@@ -223,8 +223,9 @@ input[type=checkbox] {
 		font-size: 0.876em;
 		width: 100%;
 	}
-	checkRight{
-		padding = 0.5em;
+	.checkRight{
+		padding: 0.5em;
+		font-size:0.5em;
 	}
 	header {
 		text-align: center;
