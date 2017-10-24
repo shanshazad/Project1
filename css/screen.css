@@ -258,3 +258,11 @@ label, name, age, frequent {
 
 .checkMidd { 
 	width: 100%; 
+	
+}
+
+.checkLeft { 
+	width: 25%; 
+	float: right; 
+	
+
