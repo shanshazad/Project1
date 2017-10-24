@@ -202,7 +202,7 @@ input[type=checkbox] {
 }
 .inner {
 	width: 50%;
-	margin-left: 26%;
+	margin-left: 26%; 
 }
 /* ===== STATE STYLES ===== */
 
@@ -222,18 +222,18 @@ input[type=checkbox] {
 	body {
 		font-size: 0.876em;
 		width: 100%;
+		background-color: red;
 	}
-	.checkRight{
-		font-size:0.876em;
+    
+	.inner{
+		width:100%;
+	margin:0px;
 		
 	}
-	
-	#email { 
-		
-		width: 17em; 
-		
-	}
-	
+    
+    #
+    
+    
 	header {
 		text-align: center;
 		margin-bottom: 1em;
