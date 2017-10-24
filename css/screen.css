@@ -220,11 +220,7 @@ label, name, age, frequent {
   img {
     width: 100%;
     height: auto;
-  }
-  .circle {
-    display: inline;
-    float: left;
-    width: 10%;
+  
   }
   .reasons-list {
     margin-left: 1.25em;
@@ -249,7 +245,6 @@ label, name, age, frequent {
     font-size: 1em;
     width: 100%;
 	font-family: "Calibri", "Helvetica", "Arial";
-     /* 3 deep font-stack on body 
   }
   header {
     text-align: center;
