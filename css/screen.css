@@ -235,6 +235,19 @@ input[type=checkbox] {
 		text-align: center;
 		font-size: 1.9em;
 	}
+	
+	#input-email input {
+	box-sizing: border-box;
+	margin: 0;
+	text-align: center;
+	display: block;
+	font-family: inherit;
+	font-size: inherit;
+	line-height: inherit;
+	margin: .6em 0;
+	
+	}
+	
 	img {
 		width: 100%;
 		height: auto;
