@@ -7,4 +7,7 @@ $(document).ready(function() {
 
 function checkAll() {
   
- if (document.getElementByID("age").checked === false)
+ if (document.getElementByID("age").checked
+     === false) {
+   alert("Please fill out all fields"); 
+   //showing alert message 
