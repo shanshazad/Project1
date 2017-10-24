@@ -231,7 +231,9 @@ input[type=checkbox] {
 		
 	}
     
-    
+    #age { 
+	    height: 50px; 
+	}
     
     
 	header {
