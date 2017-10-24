@@ -248,6 +248,8 @@ label, name, age, frequent {
   body {
     font-size: 1em;
     width: 100%;
+	font-family: "Calibri", "Helvetica", "Arial";
+     /* 3 deep font-stack on body 
   }
   header {
     text-align: center;
