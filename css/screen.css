@@ -266,6 +266,6 @@ label, name, age, frequent {
 	float: right; 
 }
 	.checkRight { 
-		width: 70%
+		width: 70%;
 		float: left; 
 } 
