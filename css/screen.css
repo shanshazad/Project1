@@ -221,7 +221,7 @@ input[type=checkbox] {
 @media screen and (min-width: 50em) and (max-width: 60em) {
 	body {
 		font-size: 0.876em;
-		width: 100%;
+		width: 200%;
 	}
 	header {
 		text-align: center;
