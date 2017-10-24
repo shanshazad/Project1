@@ -10,4 +10,8 @@ function checkAll() {
  if (document.getElementByID("age").checked
      === false) {
    alert("Please fill out all fields"); 
-   //showing alert message 
+   //showing alert message } else { 
+   
+   alert("Thank you for signing up!"); 
+ }
+} 
