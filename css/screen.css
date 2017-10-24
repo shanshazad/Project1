@@ -218,10 +218,10 @@ input[type=checkbox] {
 }
 /* Mobile Phone */
 
-@media screen and (min-width: 50em) and (max-width: 60em) {
+@media screen and (min-width: 70em) and (max-width: 90em) {
 	body {
 		font-size: 0.876em;
-		width: 200%;
+		width: 100%;
 	}
 	header {
 		text-align: center;
